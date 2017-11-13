@@ -12,6 +12,9 @@ https://www.authorea.com/210900/nhGij3FnYhEffW3gVCr3uA
 
 # Assignment 2
 I was working by myself based on the https://github.com/fedhere/PUI2017_fb55/blob/master/HW7_fb55/SQL_query.ipynb sceleton.
+
 Map created with data from Task 4:
 https://xoxoaseka.carto.com/builder/ed41bf65-d2a2-4f28-bd3e-f32a36d0d929/embed
-![carto_links](https://raw.githubusercontent.com/xoxoaseka/PUI2017_ad4336/HW7_ad4336/links.png)
+
+
+![carto_links](/HW7_ad4336/links.png)
