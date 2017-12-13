@@ -10,3 +10,8 @@ The title and caption have to be in the figure and not in the Markdown file, to 
 Since map represents the whole Manhattan borough, latitude and longitude values are not helpful in distinguishing locations of stations.
  
 The figure is based on the data for only one winter month. Popularity of certain bike stations is very likely to change due to weather conditions (not all stations will have roof coverage and regularly snowplowed roadways). It will be more representative to use an average number of trips during a longer period of time (several months or year), or alternatively the title of the figure could be changed to “The most popular bike stations in Winter”.
+
+# FBB ok, 
+I had asked to comment explicitly on 1. clarity 2. esthetics 3. honesty. however your review is very through and it covers all topics, although not explicitly so ok
+
+10/10
